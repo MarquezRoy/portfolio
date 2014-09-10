@@ -1,3 +1,11 @@
 body {
     background-color: windowframe;
 }
+
+#techp {
+    display: inline-block;
+}
+
+#techimg {
+    display: inline-block;
+}
