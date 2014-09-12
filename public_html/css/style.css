@@ -9,3 +9,8 @@ body {
 #techimg {
     display: inline-block;
 }
+
+body {
+    background-image: url(http://images5.alphacoders.com/289/289599.jpg);
+    background-color: #cccccc;
+}
